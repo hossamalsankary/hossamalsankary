@@ -1,5 +1,5 @@
 - 👋 Hi, I’m hossamalsankary
-- 👀 I’m interested in avaScript
+- 👀 I’m interested in javaScript
 - 🌱 I’m currently learning  node , react , and else
 - 💞️ I’m looking to collaborate on node.js projects
 - 📫 How to reach me hossamalsankary@gmail.com
