@@ -1,6 +1,6 @@
 - 👋 Hi, I’m hossamalsankary
 - 👀 I’m interested in javaScript
-- 🌱 I’m currently learning  node , react , and else
+- 🌱 I’m currently learning  node.js ,express , unit testing , mongodb , and else
 - 💞️ I’m looking to collaborate on node.js projects
 - 📫 How to reach me hossamalsankary@gmail.com
 
