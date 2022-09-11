@@ -1,10 +1,4 @@
-- 👋 Hi, I’m hossamalsankary
-- 👀 I’m interested in javaScript
-- 🌱 I’m currently learning  node.js ,express , unit testing , mongodb , and else
-- 💞️ I’m looking to collaborate on node.js projects
-- 📫 How to reach me hossamalsankary@gmail.com
-
-<!---
-hossamalsankary/hossamalsankary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Hossam, a Dev-ops engineer who loves closing the gap between actions needed to quickly change an application,
+and the tasks that maintain its reliability. I currently work on my skills in the unification and automation of processes.
+I’d love to combine my passion for programming and building and automating the infrastructure and building the CI/CD pipeline.
+I would like to have a chance to build scalable back-end systems within cloud-based platforms.
