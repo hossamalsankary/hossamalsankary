@@ -8,9 +8,8 @@
 
 
 <div align="center">
-  <img height="300" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  />
+  <img height="300"  src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"  />
 </div>
-
 
 
 
@@ -84,14 +83,3 @@ I would like to have a chance to build scalable back-end systems within cloud-ba
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" width="52" alt="webstorm logo"  />
 </div>
 
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmad-abdalmageed&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=jupyter%20notebook,HTML&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmad-abdalmageed&show_icons=true&locale=en&theme=tokyonight&count_private=true" height="150" alt="languages graph"  />
-  <img src="https://leetcode-stats.vercel.app/api?username=Ahmad-Abdalmageed&theme=Dark" height="150" alt="languages graph"  />
-</div>
-
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/Ahmad-Abdalmageed/Ahmad-Abdalmageed/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
