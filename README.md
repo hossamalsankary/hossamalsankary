@@ -48,20 +48,16 @@ I would like to have a chance to build scalable back-end systems within cloud-ba
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" height="40" width="52" alt="cplusplus logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" height="40" width="52" alt="c logo"  />
   <img src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/ansible_logo_icon_145495.png height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/ansible_logo_icon_145495.png" height="40" width="52"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40" width="52" alt="embeddedc logo"  />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
   <img src="https://cdn.worldvectorlogo.com/logos/aws-cloudformation.svg" height="40" width="52" alt="express logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40" width="52" alt="embeddedc logo"  />
   <img src="https://www.svgrepo.com/show/376353/terraform.svg" height="40" width="52" alt="circleci logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="numpy logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" width="52" alt="qt logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" width="52" alt="sequelize logo"  />
- <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+
 </div>
 
 
