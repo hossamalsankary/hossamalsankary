@@ -29,7 +29,7 @@ I would like to have a chance to build scalable back-end systems within cloud-ba
   <a href="https://www.linkedin.com/in/hossam-alsankary-2b084024b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="hossamhassanalsankary@gmail.com" target="_blank">
+  <a href="mailto:hossamhassanalsankary@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 
